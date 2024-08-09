@@ -19,16 +19,15 @@
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="50"/>
   <img width="2" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
-  <br/>
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <br/>
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50"/>
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=php" height="50"/>
-  <br/>
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img width="3" />
